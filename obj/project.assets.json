@@ -426,7 +426,7 @@
           "lib/netstandard2.0/NuGet.Frameworks.dll": {}
         }
       },
-      "NUnit/3.12.0": {
+      "NUnit/3.11.0": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "2.0.0"
@@ -1844,10 +1844,10 @@
         "nuget.frameworks.nuspec"
       ]
     },
-    "NUnit/3.12.0": {
-      "sha512": "3oJTrcUcT9wmweBUwgUf0f1XIYy6RZq2ziV+RM95HMKAJGsHPN2i3MKK1dAPvDPMRLz799Llj4eyu/STB9Q7OA==",
+    "NUnit/3.11.0": {
+      "sha512": "BzGk+u02RCrysmLlSzD+okxzMQ8JRF4eFC/qijDJ8Y/FBdTrTkxkQyTFsYkG1o++pr7QpFAE4VDXDqIfZ/gBAg==",
       "type": "package",
-      "path": "nunit/3.12.0",
+      "path": "nunit/3.11.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1855,6 +1855,10 @@
         "LICENSE.txt",
         "NOTICES.txt",
         "build/NUnit.props",
+        "lib/net20/NUnit.System.Linq.dll",
+        "lib/net20/nunit.framework.dll",
+        "lib/net20/nunit.framework.pdb",
+        "lib/net20/nunit.framework.xml",
         "lib/net35/nunit.framework.dll",
         "lib/net35/nunit.framework.pdb",
         "lib/net35/nunit.framework.xml",
@@ -1870,7 +1874,7 @@
         "lib/netstandard2.0/nunit.framework.dll",
         "lib/netstandard2.0/nunit.framework.pdb",
         "lib/netstandard2.0/nunit.framework.xml",
-        "nunit.3.12.0.nupkg.sha512",
+        "nunit.3.11.0.nupkg.sha512",
         "nunit.nuspec"
       ]
     },
@@ -4571,7 +4575,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
-      "NUnit >= 3.12.0",
+      "NUnit >= 3.11.0",
       "NUnit3TestAdapter >= 3.14.0"
     ]
   },
@@ -4626,7 +4630,7 @@
           },
           "NUnit": {
             "target": "Package",
-            "version": "[3.12.0, )"
+            "version": "[3.11.0, )"
           },
           "NUnit3TestAdapter": {
             "target": "Package",
