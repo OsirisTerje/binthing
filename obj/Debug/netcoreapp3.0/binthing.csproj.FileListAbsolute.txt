@@ -94,3 +94,5 @@ d:\repos\scrap\binthing\obj\Debug\netcoreapp3.0\binthing.csproj.CopyComplete
 d:\repos\scrap\binthing\obj\Debug\netcoreapp3.0\binthing.dll
 d:\repos\scrap\binthing\obj\Debug\netcoreapp3.0\binthing.pdb
 d:\repos\scrap\binthing\obj\Debug\netcoreapp3.0\binthing.genruntimeconfig.cache
+d:\repos\scrap\binthing\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+d:\repos\scrap\binthing\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
