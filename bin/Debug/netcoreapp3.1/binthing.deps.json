@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "NUnit": "3.12.0",
-          "NUnit3TestAdapter": "3.15.1"
+          "NUnit3TestAdapter": "3.14.0"
         },
         "runtime": {
           "binthing.dll": {}
@@ -391,7 +391,7 @@
           }
         }
       },
-      "NUnit3TestAdapter/3.15.1": {
+      "NUnit3TestAdapter/3.14.0": {
         "dependencies": {
           "Microsoft.DotNet.InternalAbstractions": "1.0.0",
           "System.ComponentModel.EventBasedAsync": "4.3.0",
@@ -971,12 +971,12 @@
       "path": "nunit/3.12.0",
       "hashPath": "nunit.3.12.0.nupkg.sha512"
     },
-    "NUnit3TestAdapter/3.15.1": {
+    "NUnit3TestAdapter/3.14.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gqy0llGjhJYq9ebFvtbmBcF/MY8z5kcTIxYs+eXwp2d4Ntha8pSPxUzryvBm7H46VbWI6FS5/XNbxwiQpe88vQ==",
-      "path": "nunit3testadapter/3.15.1",
-      "hashPath": "nunit3testadapter.3.15.1.nupkg.sha512"
+      "sha512": "sha512-rtwdIVQOvEcDd+EYNG7dStlQEXfevzLBonLYD3mGMuBubBXx+fLYeAkhocKmTxPtZVnLUjuCOPoP3pUHBMUw8A==",
+      "path": "nunit3testadapter/3.14.0",
+      "hashPath": "nunit3testadapter.3.14.0.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",

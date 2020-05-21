@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cDKL1TxxHZTazzDjaS29hgf83RstsBEecLP/CkbJ+IM+NNsmbEXX2gO8ki5oRzI/01OoCBzvQvuAC1V4QgQMeQ==",
+  "dgSpecHash": "wFcs3waB98dJh/Wf/K98WAaMPE9Jh/bp4sH6+q9EGwKisYEUGFRrHD8GVM27w2HfOYGAIs4Il1WwyQ/DIZEB0g==",
   "success": true,
   "projectFilePath": "d:\\repos\\scrap\\binthing\\binthing.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,7 @@
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
-    "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
+    "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\nunit3testadapter\\3.14.0\\nunit3testadapter.3.14.0.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
