@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XrK0dd7J+zK4GpThNfsn9SywRkKzsXJ5ImHuAjA0ICEeE76a4cx3jPXKGKhmbN8WPClfgaF7F06aDALpP5Ojkg==",
+  "dgSpecHash": "ebCY1ShbGbqbVGRpZKvtBTM8UrIoJEWMQGp7FCDjjfTRZtg2Ev+pOlYtDZF5UgoYDbAY/VFgh2B25BY5141QaQ==",
   "success": true,
   "projectFilePath": "d:\\repos\\scrap\\binthing\\binthing.csproj",
   "expectedPackageFiles": [
@@ -90,7 +90,8 @@
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\TerjeSandstrom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }
